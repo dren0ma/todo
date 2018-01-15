@@ -1,0 +1,35 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	height: 100vh;
+}
+
+.col-todo {
+	background-color: darkgrey;
+}
+
+
+h1.title {
+	color: white;
+}
+
+.completed {
+	color: green;
+	text-decoration: line-through;
+}
+
+ul {
+	list-style: none;
+}
+
+li {
+	color: darkred;
+}
+
+.columns {
+	height: 70vh;
+}
